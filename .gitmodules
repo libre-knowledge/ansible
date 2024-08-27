@@ -11,3 +11,7 @@
 	path = Ansible-lint Ansible 資源潛在問題檢查工具
 	url = https://gitlab.com/libre-knowledge/ansible-lint.git
 	ignore = dirty
+[submodule "The common Ansible project template"]
+	path = The common Ansible project template
+	url = https://gitlab.com/the-common/ansible-project-template.git
+	ignore = dirty

@@ -14,6 +14,11 @@
 * [Ansible-lint Ansible 資源潛在問題檢查工具](https://gitlab.com/libre-knowledge/ansible-lint)  
   檢查 Ansible 資源的潛在問題
 
+### 文件範本<br>Templates
+
+* [The common Ansible project template](https://gitlab.com/the-common/ansible-project-template)  
+  快速建立符合需求的 Ansible 專案
+
 ## 參考資料
 
 以下列舉撰寫本主題內容時所參考的第三方資源：
