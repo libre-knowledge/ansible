@@ -15,3 +15,14 @@
 	path = The common Ansible project template
 	url = https://gitlab.com/the-common/ansible-project-template.git
 	ignore = dirty
+[submodule "Ansible"]
+	path = Ansible
+	url = https://github.com/ansible/ansible.git
+	fetchRecurseSubmodules = false
+	shallow = true
+[submodule "Ansible community documentation"]
+	path = Ansible community documentation
+	url = https://github.com/ansible/ansible-documentation.git
+	ignore = dirty
+	fetchRecurseSubmodules = false
+	shallow = true

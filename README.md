@@ -9,6 +9,15 @@
 
 以下列舉本主題相關的解決方案：
 
+### 上游專案<br>Upstream projects
+
+以下列舉本主題相關的上游專案：
+
+* [Ansible](https://github.com/ansible/ansible)  
+  產品主程式的專案
+* [Ansible community documentation](https://github.com/ansible/ansible-documentation)  
+  產品的官方說明文件
+
 ### 潛在問題檢查工具<br>Linters
 
 * [Ansible-lint Ansible 資源潛在問題檢查工具](https://gitlab.com/libre-knowledge/ansible-lint)  
