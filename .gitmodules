@@ -26,3 +26,7 @@
 	ignore = dirty
 	fetchRecurseSubmodules = false
 	shallow = true
+[submodule "The common Ansible role template"]
+	path = The common Ansible role template
+	url = https://gitlab.com/the-common/ansible-role-template.git
+	ignore = dirty
