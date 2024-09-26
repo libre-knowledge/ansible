@@ -27,7 +27,7 @@
 
 * [The common Ansible project template](https://gitlab.com/the-common/ansible-project-template)  
   快速建立符合需求的 Ansible 專案
-* （開發中）[The common Ansible role template](https://gitlab.com/the-common/ansible-role-template)  
+* [The common Ansible role template](https://gitlab.com/the-common/ansible-role-template)  
   快速建立符合需求的 Ansible 角色專案
 
 ## 參考資料
