@@ -18,6 +18,13 @@
 * [Ansible community documentation](https://github.com/ansible/ansible-documentation)  
   產品的官方說明文件
 
+### 效能完善<br>Optimizations
+
+以下列舉本主題相關的效能完善解決方案：
+
+* [Mitogen for Ansible](https://mitogen.networkgenomics.com/ansible_detailed.html)  
+  效能較好但相容性較差的 Ansible 底層邏輯實作
+
 ### 潛在問題檢查工具<br>Linters
 
 * [Ansible-lint Ansible 資源潛在問題檢查工具](https://gitlab.com/libre-knowledge/ansible-lint)  
