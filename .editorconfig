@@ -4,7 +4,7 @@
 # This file is based on The Common EditorConfig Template project
 # https://github.com/the-common/editorconfig-template
 #
-# Copyright 2021 林博仁(Buo-ren, Lin) <Buo.Ren.Lin@gmail.com>
+# Copyright 2025 林博仁(Buo-ren Lin) <buo.ren.lin@gmail.com>
 # SPDX-License-Identifier: WTFPL
 
 # This is the top-most EditorConfig file
@@ -64,3 +64,7 @@ indent_size = 2
 [/LICENSES/*]
 indent_size = unset
 indent_style = unset
+
+# VS Code configuration files
+[*.code-workspace]
+indent_style = tab
